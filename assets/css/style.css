@@ -1,0 +1,12 @@
+html{
+    background-color: gray;
+}
+.container{
+    background-color: blueviolet;
+    width: 1400px;
+    height: 300px;
+}
+.logo{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
